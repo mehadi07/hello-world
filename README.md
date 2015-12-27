@@ -1,2 +1,3 @@
 # hello-world
-just started 
+just started few days ago with minimum codding experiance. 
+have to learn a lot ... 
